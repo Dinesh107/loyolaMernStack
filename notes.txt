@@ -1,0 +1,114 @@
+HTML - Hyper text markup lang
+
+tag, attributes, values
+
+tag
+
+<>  ---> open tag
+
+</> ----> closeing tag
+
+navbar and header part
+
+body of the content 
+
+Footer part 
+
+
+
+<html>
+     <head>
+        logo
+        meta tags - google anlytics
+     </head>
+     <body>
+
+     <footer>
+     social media links
+     copyright condtions
+     </footer>
+     </body>
+</html>
+
+
+Hyper link - when i click a button, link it will redirect to another page 
+
+<a>
+</a>
+
+<img>
+
+text formating
+
+
+span tag  -- Inline container to group elements for styling purpose
+
+div tag  --- block conatiner to group elements for styling purpose 
+
+<!--
+    
+-->  commenting in HTML
+
+List
+
+
+
+Unorder list 
+
+ul  --> unorder list
+
+Order list 
+
+ol ---> order list 
+
+
+Tables
+
+table ---> tag 
+
+<table>
+  <tr>
+    <>
+  </tr>
+</table>
+
+student table
+
+
+Name, Age, dept, college name, blood group
+
+
+button 
+
+
+Form  ----> 
+
+<form>
+
+</form>
+
+Create a form for job application
+
+student name
+
+phone num
+
+email
+
+degeree
+
+dept
+
+passed out
+
+cover letter letter --> text area
+
+date of birth
+
+quantity of arrears
+
+resume upload
+
+
+
+
