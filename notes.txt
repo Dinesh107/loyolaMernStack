@@ -109,6 +109,62 @@ quantity of arrears
 
 resume upload
 
+Javascript 
+
+// ---> commenting
+
+
+Varaibles ---> To store the values or data.
+container that stores a value which behaves as if it were value it contains.
+
+let a;  declaration
+a = 10; assingment
+
+let a = 10;  declaration +  assingment
+
+let ---> Global level access
+
+var  -----> Local level access
+
+constant ---> final value 
+
+
+" " ---> string literal 
+`` ----> Template literal 
+
+Commanly we use data - 
+Numbers
+String
+Boolean 
+
+Conditional Statement - if a condition is true, then the code will execute, if not do something else 
+
+let age = 20;
+
+if(condition) {
+
+} else {
+
+}
+
+nested if else statement ---> multiple conditions we can 
+
+Ternary Operator ---> a shortcut to if and else statements
+
+hepl us to assign varaible on a condtion 
+
+condition ?  codeIfTrue : codeIfFalse
+
+Switches ---> can be an effeicent replacement to many else if statements. 
+
+String and String Methods 
+
+String ----> Group of letters and numbers and collection of characters in a Double Quotes is called string
+
+String methods --> allow us to manipulate and work with text(strings)
+
+String Slicing -- Create a substring from a portion another string
+
 
 
 
