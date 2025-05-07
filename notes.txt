@@ -165,6 +165,35 @@ String methods --> allow us to manipulate and work with text(strings)
 
 String Slicing -- Create a substring from a portion another string
 
+Control Statements or looping statement or itreation procedure 
+
+
+while looping
+                  ---> Traditional loops 
+do while loop
+
+for loop  -----> advance loop 
+
+for each loop ----> iteration procedure
+
+
+functions - a section of reuasable code 
+// declare code once ,use ot whenever we want
+// call the function to excecute that code 
+
+
+// Arrow functions --> concise way to write normal function
+
+
+// Array - a variable like structure that acn hold more than values 
+
+let arrName = [val1, val2, val3];
+
+let fruits = ["apple", "orange", "banana"];
+
+
+
+
 
 
 

@@ -127,7 +127,7 @@
 // console.log(username.toLowerCase());
 // console.log(username.toUpperCase());
 
-let username = "Selva123445666432 Student";
+// let username = "Selva123445666432 Student";
 
 // let firstName = username.slice(0, 5);
 // console.log(`Your first name is ${firstName}`);
@@ -142,6 +142,182 @@ let username = "Selva123445666432 Student";
 
 // email = selva1234@gmail.com
 // Task :- Extarct the username only from that email id and log the output
+
+
+// loop - Common Concept 
+
+
+// print 1 to 10
+
+// 1) were we need the start the loop
+
+// 2) Were we stop the loop 
+
+// 3) Increment or decrement operator
+
+// while loop - > Entry control loop 
+
+// let print 1 to 10 using while loop.
+
+// let i = 10;
+
+// while (i >= 1) {
+//      console.log(i);       
+//     // 2 
+// }
+
+
+
+// do {   --> exit control loop
+    
+// } while (condition);
+
+// let i = 1000;
+//   i--; 
+// do {
+//    console.log(i);
+//    i++;
+// } while(i <= 10);
+
+
+// for (let index = 0; index < array.length; index++) {
+//     const element = array[index];
+    
+// }
+
+
+// for(var i = 1; i <= 10; i++) {
+//     console.log(i);
+// }
+
+// task 1
+
+// 1
+// 1
+// 1
+// 1
+// 2
+// 2
+// 2
+// 2
+// 2
+
+// task 2
+
+// i
+// i
+// i
+// i
+// i
+
+
+
+
+
+// function happyBirthday(name, age) {
+//     console.log("Happy birthday to you");
+//     console.log("Happy birthday to you");
+//     console.log(`Happy birthday dear ${name}!!!`);
+//     console.log(`Happy birthday to you and you become ${age}`);
+// }
+
+
+// happyBirthday("Selva", 20);  // --> function or method calling
+// happyBirthday("Abi shek", 19);  // --> function or method calling
+
+
+
+// function hello() {
+//     console.log("Hello Students");
+// }
+
+
+// const hello = (name, age) => { console.log(`hello ${name}`);
+//  console.log(`hello ${name}, your age is ${age}`)}
+
+
+// hello("Abi", 20);
+
+//              0         1         2
+// const fruits = [
+//     "Apple", "Banana", "Orange", "Mango", "Grapes", "Pineapple", "Papaya", "Strawberry", "Blueberry", "Raspberry",
+//     "Blackberry", "Watermelon", "Cantaloupe", "Honeydew", "Lemon", "Lime", "Cherry", "Peach", "Plum", "Apricot",
+//     "Nectarine", "Kiwi", "Pomegranate", "Guava", "Lychee", "Fig", "Date", "Coconut", "Avocado", "Passionfruit",
+//     "Dragonfruit", "Jackfruit", "Tangerine", "Clementine", "Mandarin", "Mulberry", "Cranberry", "Gooseberry", "Starfruit", "Durian",
+//     "Rambutan", "Persimmon", "Boysenberry", "Currant", "Tamarind", "Sapodilla", "Ugli fruit", "Longan", "Jujube", "Quince"
+//   ];
+
+
+//   fruits.push("veggies"); //it will add the element at the last in the array
+//   fruits.pop();  // it will remove the element at the last in the array
+
+//   fruits.unshift("Veggies"); // //it will add the element at the begining of the array
+
+
+//   fruits.shift("Veggies"); // //it will remove the element at the begining of the array
+
+
+
+// let numOfFruits = fruits.length;
+// let index = fruits.indexOf("Apple");
+
+// console.log(numOfFruits);
+// console.log(index);
+
+
+// for (let fruit of fruits) {
+//       console.log(fruit);
+// }
+
+
+
+// Spread operator and Rest Paramanter
+
+
+// Spread operator  ... 
+
+// allow an iteration such as an array or string to be expanded into sperate elements (unpack)
+
+
+// let username = "Selva Student computer science";
+// let letters = [...username].join("-");
+// console.log(letters);
+
+
+// const fruits = [
+//     "Apple", "Banana", "Orange", "Mango", "Grapes", "Pineapple", "Papaya", "Strawberry", "Blueberry", "Raspberry",
+//     "Blackberry", "Watermelon", "Cantaloupe", "Honeydew", "Lemon", "Lime", "Cherry", "Peach", "Plum" ];
+
+// let veggies = ["carrot", "tomato", "Spinach"];
+// let foods = [...fruits, ...veggies];
+// console.log(foods);
+
+// Rest Parameters = ...
+
+// allow function work with a varaible number of arguments by bundling sperate elements into an array.
+
+
+// function openFridge(...foods) {
+//     console.log(foods);
+// }
+// const food1 = "briyani";
+// const food2 = "Fried rice";
+// const food3 = "Veg meals";
+// const food4 = "Dosa";
+// const food5 = "idly";
+
+// openFridge(food1, food2, food3, food4, food5);
+
+
+
+
+
+
+
+
+
+
+
 
 
 
