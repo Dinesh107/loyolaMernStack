@@ -191,6 +191,26 @@ let arrName = [val1, val2, val3];
 
 let fruits = ["apple", "orange", "banana"];
 
+React
+
+1) npm create vite@latest   
+2) Yes
+3) Keep a project name 
+4) press enter
+5) Select react 
+6) enter
+7) change  to React folder cd project folder
+8)  npm install
+
+
+npx create-react-app
+
+
+
+
+
+
+
 
 
 
