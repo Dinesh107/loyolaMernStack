@@ -202,9 +202,32 @@ React
 7) change  to React folder cd project folder
 8)  npm install
 
-
 npx create-react-app
 
+
+classs ----> className
+
+
+Props - Read only properties that are shered between components
+
+Parent component can send the data to child component
+
+<Component key=value />
+
+
+Conditional Renderning - allow us to control what get rendered in our react app based certain conditions 
+
+{show, hide, or change compnents}
+
+Today React Task
+
+Create a employee component 
+Employee name 
+Employee ID
+Employee Salary 
+Employee Desgination 
+
+for each component Create Employee Card Component for atleast 4 cards
 
 
 
