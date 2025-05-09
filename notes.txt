@@ -230,6 +230,47 @@ Employee Desgination
 for each component Create Employee Card Component for atleast 4 cards
 
 
+Node js with Express js and MongoBD - CRUD Operation
+
+
+PORTS - 3000, 4000, 8000 
+
+HTTP METHODS --> POST, GET, PUT, DELETE
+
+Nodemon --> Automatically starts and stops the server 
+
+Steps to backnd setup
+
+1 - npm init 
+
+2 - install nodemon 
+
+3 -
+
+
+ / = https://localhost:3000
+
+ API - Application Programming Interface  - for a correct url endpoint the correct ui or interface is showing or fetching data 
+ 
+ password for our db:-   vWsdCmUnmBPV1KxA
+ password for our db:-   bWSd7lBOZPLf8Tho
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
